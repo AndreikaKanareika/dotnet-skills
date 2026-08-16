@@ -17,4 +17,5 @@ Prerequisites:
 
 ## Skills
 
+- [configure-csharp-lsp-solution](skills/configure-csharp-lsp-solution/SKILL.md)
 - [setup-local-sdk](skills/setup-local-sdk/SKILL.md)
